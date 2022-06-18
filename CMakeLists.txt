@@ -3,4 +3,4 @@ project(Game_Of_Life)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Game_Of_Life main.cpp)
+add_executable(Game_Of_Life main.cpp Exceptions.cpp)
