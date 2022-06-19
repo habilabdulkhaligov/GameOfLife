@@ -1,0 +1,3 @@
+/Users/talehtaghiyev/Downloads/GameOfLife-master/build/CMakeFiles/GameOfLife.dir
+/Users/talehtaghiyev/Downloads/GameOfLife-master/build/CMakeFiles/edit_cache.dir
+/Users/talehtaghiyev/Downloads/GameOfLife-master/build/CMakeFiles/rebuild_cache.dir
